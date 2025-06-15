@@ -1,0 +1,11 @@
+{
+    "1255353635": {
+        "btcusdt": {
+            "threshold": 1.0,
+            "interval": 1,
+            "start_price": null,
+            "start_time": "2025-05-14 13:17:38",
+            "price_history": []
+        }
+    }
+}
