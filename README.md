@@ -25,10 +25,7 @@ pip install -r requirements.txt
 ```
 python crypto_alert_bot.py
 ```
-- **Запустите бот по ссылке в Телеграмм:**
-```
-[@BotFather](https://t.me/from_durashki_crypto_bot)
-```
+- **Запустите бот по ссылке в Телеграмм: [@BotFather](https://t.me/from_durashki_crypto_bot)**
 
 ## 🚀 Основные возможности
 
