@@ -19,8 +19,6 @@ cd Crypto-alert-bot
 ```
 pip install -r requirements.txt
 ```
-- **Замените `YOUR_TELEGRAM_BOT_TOKEN` в `crypto_alert_bot.py` на ваш токен от [@BotFather](https://t.me/BotFather)**
-
 - **Запустите исходный файл в консоли:**
 ```
 python crypto_alert_bot.py
