@@ -21,9 +21,13 @@ pip install -r requirements.txt
 ```
 - **Замените `YOUR_TELEGRAM_BOT_TOKEN` в `crypto_alert_bot.py` на ваш токен от [@BotFather](https://t.me/BotFather)**
 
-- **Запустите:**
+- **Запустите исходный файл в консоли:**
 ```
 python crypto_alert_bot.py
+```
+- **Запустите бот по ссылке в Телеграмм:**
+```
+[@BotFather](https://t.me/from_durashki_crypto_bot)
 ```
 
 ## 🚀 Основные возможности
